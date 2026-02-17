@@ -29,25 +29,10 @@
     { "id": "prod-63fa2c7b-023", "name": "Pro Item 23", "category": "home", "price": 72.26, "stock": 11, "rating": 1.8 }
   ],
   "aggregations": {
-  "books": {
-    "count": 7,
-    "inventoryValue": 232095.27
-  },
-  "sports": {
-    "count": 4,
-    "inventoryValue": 156298.66
-  },
-  "electronics": {
-    "count": 6,
-    "inventoryValue": 135270.29
-  },
-  "clothing": {
-    "count": 3,
-    "inventoryValue": 83347.61
-  },
-  "home": {
-    "count": 3,
-    "inventoryValue": 32693.19
+    "books": { "count": 7, "inventoryValue": 232095.27 },
+    "sports": { "count": 4, "inventoryValue": 156298.66 },
+    "electronics": { "count": 6, "inventoryValue": 135270.29 },
+    "clothing": { "count": 3, "inventoryValue": 83347.61 },
+    "home": { "count": 3, "inventoryValue": 32693.19 }
   }
-}
 }
